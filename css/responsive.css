@@ -1,0 +1,170 @@
+@media all and (max-width: 1199px){
+    .choose-field-option-item {
+        width: 100%;
+        margin-bottom: 10px;
+        margin-right: 30px;
+    }
+    .smileys-area .choose-field-option-item{
+        width: inherit !important;
+    }
+    .radio label{
+        margin-right:30px !important;
+
+    }
+    .fill-form-full-option input.input-line{
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+    .cut-width-input,.cut-width-input-2{
+        width:100% !important;
+        margin-bottom: 15px;
+    }
+}
+@media all and (max-width: 991px){
+    .fill-form-right-side{
+        padding: 0 !important;
+        margin-top: 30px;
+    }
+    .skin-quality-item{
+        clear:both;
+    }
+    .fill-form-full-option input.input-line{
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+    .last-page-area{
+        background-position: 0 0;
+        background-size: cover !important;
+    }
+    .bottom-background .inside-ads img{
+        max-width:50% !important;
+    }
+
+    .radio label {
+        margin-right:0 !important;
+    }
+    .field-info .radio .choose-options label{
+        margin-right:20px !important;
+    }
+}
+@media all and (max-width: 767px){
+    .slace-evolution img{
+        float:left !important;
+    }
+    .second-page-info-title, .third-page-info-title{
+        font-size: 24px;
+    }
+    .second-section-content p{
+        font-size: 14px;
+    }
+    .subtitle-info{
+        font-size: 18px;
+    }
+    .third-page-fill-form-field .choose-options .field-option span{
+        float:none !important;
+    }
+    .second-section-content img {
+        width: 150px;
+        display: block;
+        margin: 0 auto;
+        float:none;
+    }
+    .diagram-mark-info li{
+        padding:0;
+    }
+    .diagram-mark-info{
+        margin: 20px 0 0 20px;
+    }
+    .checkboxes-block{
+        display: inline-flex;
+    }
+    .second-page-title{
+        font-size: 28px;
+    }
+    .second-section-content p{
+        width:100%;
+    }
+    .field-info input{
+        width:100%;
+    }
+    .pdf-form-inside{
+        min-height: 900px;
+        background-size: cover;
+    }
+    .patient-info{
+        margin: 0 auto;
+        float: none;
+    }
+    .pdf-right-side{
+        clear:both;
+    }
+    .inside-options-area span img{
+        width:12px !important;
+        height:12px !important;
+    }
+    .choose-options-area li span{
+        padding:0;
+    }
+    .smileys-area .choose-field-option-item a img{
+        width:40px;
+        height:38px;
+        margin:0;
+    }
+    .fill-form-full-option input.input-line{
+        width:100% !important;
+        margin-bottom: 15px;
+    }
+    .third-page-fill-form-field .choose-options .field-option input{
+        width:100% !important;
+        margin-bottom:15px;
+    }
+    .cut-width-input,.cut-width-input-2{
+        width:100% !important;
+    }
+    .third-page-fill-form-field .choose-options label{
+        width: 100%;
+    }
+    .diagram-grid .checkboxes-block{
+        display:inline-flex !important;
+    }
+    .smileys-area .choose-field-option-item {
+        width: 100% !important;
+    }
+    .checkbox label{
+        margin-right:0 !important;
+    }
+
+
+}
+@media all and (max-width: 570px){
+    .final-title{
+        font-size: 34px;
+    }
+
+}
+@media all and (max-width: 599px){
+    .textarea-block #stmap-area{
+        width:inherit;
+    }
+    .inside-ads{
+        padding: 15px 0;
+    }
+    .inside-ads img{
+        max-width: 23%;
+    }
+    .bottom-background .inside-ads img{
+        max-width:70% !important;
+
+    }
+}
+@media all and (max-width: 420px){
+    .radio label, .checkbox label{
+        margin-bottom: 15px !important;
+    }
+    .pdf-form-inside{
+        min-height: 950px;
+    }
+    .final-title {
+        font-size: 27px;
+    }
+}
