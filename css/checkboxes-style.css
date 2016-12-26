@@ -37,7 +37,7 @@
 }
 
 .radio .cr .cr-icon {
-    margin-left: 0.04em;
+    margin-left: -1px;
 }
 
 .checkbox label input[type="checkbox"],
